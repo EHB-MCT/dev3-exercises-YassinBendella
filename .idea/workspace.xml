@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="43f5daae-76c6-4b11-944c-0a0b40fdb646" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Hello_world/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hello_world/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hello_world/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hello_world/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hello_world/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hello_world/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hello_world/Hello_world.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hello_world/out/production/Hello_world/META-INF/Hello_world.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hello_world/out/production/Hello_world/MainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hello_world/src/main/kotlin/Main.kt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1z5tjrp471uzz6Nz8FBpnCea2fr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43f5daae-76c6-4b11-944c-0a0b40fdb646" name="Changes" comment="" />
+      <created>1633449916206</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633449916206</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
