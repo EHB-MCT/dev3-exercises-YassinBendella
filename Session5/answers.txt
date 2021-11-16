@@ -1,0 +1,28 @@
+-- First Batch
+
+SELECT productName FROM products WHERE productCode = "S24_3856";
+
+SELECT AVG(MSRP) FROM products WHERE productCode = "S24_3856";
+
+SELECT COUNT(*) FROM products WHERE productName LIKE "%Ford%";
+
+SELECT MAX(MSRP) FROM products;
+
+SELECT COUNT(*) FROM products WHERE productLine LIKE "Ships";
+
+
+-- Second Batch
+
+SELECT COUNT(orderNumber) FROM orders WHERE customerNumber = "328";
+
+SELECT COUNT(*) customerName FROM orders 
+INNER JOIN customers ON customers.customerNumber = orders.customerNumber
+WHERE customers.contactLastName = "Young" AND customers.contactFirstName = "Julie";
+
+SELECT COUNT(*) FROM customers WHERE country = "USA" AND creditLimit = "0.00";
+
+SELECT customers.customerName, AVG(amount) AS average FROM payments
+INNER JOIN customers ON customers.customerNumber = payments.customerNumber
+GROUP BY customers.customerNumber
+ORDER BY average DESC
+LIMIT 1;
